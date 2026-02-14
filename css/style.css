@@ -178,3 +178,51 @@ nav a:hover {
 .download-area {
   margin-top: 60px;
 }
+.work-placeholder {
+  padding: 140px 8% 80px 8%;
+  min-height: 100vh;
+}
+
+.work-container {
+  max-width: 900px;
+}
+
+.work-container h1 {
+  font-size: 52px;
+  margin-bottom: 20px;
+}
+
+.work-subtext {
+  color: rgba(255,255,255,0.6);
+  margin-bottom: 60px;
+  max-width: 550px;
+}
+
+.coming-soon-card {
+  background: rgba(255,255,255,0.03);
+  border: 1px solid rgba(255,255,255,0.08);
+  padding: 30px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  transition: 0.3s ease;
+}
+
+.coming-soon-card:hover {
+  transform: translateY(-4px);
+  border-color: rgba(96,165,250,0.4);
+}
+
+.card-line {
+  width: 40px;
+  height: 3px;
+  background: #60a5fa;
+  margin-bottom: 15px;
+}
+
+.coming-soon-card h3 {
+  margin-bottom: 10px;
+}
+
+.coming-soon-card p {
+  color: rgba(255,255,255,0.6);
+}
