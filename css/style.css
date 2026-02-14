@@ -131,3 +131,61 @@ nav a:hover {
 .download-area {
   margin-top: 60px;
 }
+.resume-header {
+  margin-bottom: 70px;
+}
+
+.resume-container h1 {
+  font-size: 52px;
+  letter-spacing: -1px;
+}
+
+.resume-block {
+  margin-bottom: 60px;
+}
+
+.resume-block h2 {
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  color: rgba(255,255,255,0.4);
+}
+
+.resume-item {
+  margin-bottom: 15px;
+}
+
+.resume-title {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.resume-meta {
+  color: rgba(255,255,255,0.5);
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.resume-block ul {
+  padding-left: 18px;
+}
+
+.resume-block li {
+  margin-bottom: 6px;
+  color: rgba(255,255,255,0.75);
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.skills span {
+  padding: 8px 14px;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 6px;
+  font-size: 14px;
+}
